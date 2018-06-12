@@ -1,0 +1,7 @@
+{
+  "slackWebhookUrl": "https://hooks.slack.com/services/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",
+  "slackkChannel": "#x_cheese_coding_night",
+  "slackTitle": "I AM FRIDGE!",
+  "slackBotName": "Smart Fridge",
+  "awsRegion": "ap-southeast-2"
+}
